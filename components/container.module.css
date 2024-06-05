@@ -1,0 +1,21 @@
+.container {
+    position: relative;
+}
+
+.container_image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+    height: auto;
+    width: 100%;
+}
+
+.container_content {
+    position: relative;
+    color:darkkhaki
+}
+
+.container_content a{
+    color:khaki;
+}
